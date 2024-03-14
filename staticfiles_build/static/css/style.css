@@ -1720,14 +1720,12 @@ body{
 	padding:100px 0px;
 	position:relative;
 }
-.clients .single-clients{
-	
-}
+
 .clients .single-clients img {
 	width: 100%;
 	cursor: pointer;
 	text-align: center;
-	float: none;
+	
 	padding: 0 35px;
 }
 /*========================
